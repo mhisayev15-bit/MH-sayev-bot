@@ -3,7 +3,7 @@ from google import genai
 from telegram import Update
 from telegram.ext import ApplicationBuilder, ContextTypes, CommandHandler, MessageHandler, filters
 
-TELEGRAM_TOKEN = "8966463643:AAFBWDwCsC3uK4Rp3UWYjisrEaNW5SEi5CY"
+TELEGRAM_TOKEN = "8966463643:AAFjUIeQQ7oUJxzl8FNWjABtyiRxte8axHQ"
 GEMINI_API_KEY = "AQ.Ab8RN6I5txyNs8RU7PlKONWGK1IPi0GPrb2o9og8k5QU_y0CHw"
 MY_ID = 8190618044
 
